@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/pifsc-protected-species-division/pifsc-protected-species-division.r-universe.dev
 	branch = HEAD
+[submodule "LTabundR"]
+	path = LTabundR
+	url = https://github.com/PIFSC-Protected-Species-Division/LTabundR
+[submodule "crputils"]
+	path = crputils
+	url = https://github.com/PIFSC-Protected-Species-Division/crputils
+[submodule "picMaps"]
+	path = picMaps
+	url = https://github.com/PIFSC-Protected-Species-Division/picMaps
