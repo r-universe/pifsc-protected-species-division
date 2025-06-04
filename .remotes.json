@@ -1,0 +1,8 @@
+[
+  {
+    "package": "swfscDAS",
+    "url": "https://github.com/SWFSC/swfscDAS",
+    "via": ["crputils"],
+    "from": "crputils"
+  }
+]

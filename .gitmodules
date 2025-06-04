@@ -11,3 +11,7 @@
 [submodule "picMaps"]
 	path = picMaps
 	url = https://github.com/PIFSC-Protected-Species-Division/picMaps
+[submodule "swfscDAS"]
+	path = swfscDAS
+	url = https://github.com/SWFSC/swfscDAS
+	registered = false
