@@ -8,6 +8,9 @@
 [submodule "crputils"]
 	path = crputils
 	url = https://github.com/PIFSC-Protected-Species-Division/crputils
+[submodule "dmsextraLite"]
+	path = dmsextraLite
+	url = https://github.com/PIFSC-Protected-Species-Division/dmsextraLite
 [submodule "picMaps"]
 	path = picMaps
 	url = https://github.com/PIFSC-Protected-Species-Division/picMaps
